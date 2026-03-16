@@ -5,7 +5,7 @@ event management web app built with ASP.NET Core MVC, deployed on Azure App Serv
 
 > A venue booking and event management platform built with ASP.NET Core MVC (.NET 8), deployed to Microsoft Azure.
 
-🌐 **Live Demo:** (https://STxxxxx.azurewebsites.net](https://easyeasephathu-gdcrgqbrauh5hrd3.southafricanorth-01.azurewebsites.net/Venues))
+🌐 **Live Demo:** (https://easyeasephathu-gdcrgqbrauh5hrd3.southafricanorth-01.azurewebsites.net/Venues))
 
 
 ---
