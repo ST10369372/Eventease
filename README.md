@@ -73,7 +73,7 @@ All data is stored in **Azure SQL Database** with automatic backups and referent
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/EventEase.git
+git clone (https://github.com/ST10369372/Eventease.git)
 cd EventEase
 ```
 
